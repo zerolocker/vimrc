@@ -143,6 +143,7 @@ set go+=a               " Visual selection automatically copied to the clipboard
 "------------------------------------------------------------
 
 set ruler
+set mouse=a
 
 "------------------------------------------------------------
 " Indentation options {{{1
